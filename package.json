@@ -14,12 +14,13 @@
     {
       "name": "index",
       "title": "Convert to one line",
-      "description": "",
+      "description": "Enter text to remove line breaks and copy to clipboard",
       "mode": "view"
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.45.2"
+    "@raycast/api": "^1.45.2",
+    "@raycast/utils": "^1.4.14"
   },
   "devDependencies": {
     "@types/node": "18.8.3",
